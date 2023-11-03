@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lowiedichoson
 - 👀 I’m interested in web and mobile apps development
-- 🌱 I’m currently learning .NET (C#, ASP.NET, MVC, and etc.) and MSSQL
+- 🌱 I’m currently learning .NET (C#, ASP.NET, MVC, and etc.) and MS SQL
 - 📫 Reach me through my LinkedIn profile
 
 <!---
